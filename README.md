@@ -1,7 +1,7 @@
-## This repo contains my learning and exprementing Jest Testing
+# This repo contains my learning and exprementing Jest Testing
 
-### To run test use command `npm test` after installing all the dependencies
+## To run test use command `npm test` after installing all the dependencies.
 
-### coverage folder will also be created
+### Coverage folder will be created after test is run.
 
-### coveerage folder includes index.html (run on browser) that has report on it
+### Coverage folder includes index.html file (run on browser) that has report on it.
