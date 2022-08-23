@@ -1,0 +1,14 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sujan Raj Shrestha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
